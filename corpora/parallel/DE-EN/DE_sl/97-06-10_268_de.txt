@@ -1,0 +1,21 @@
+Wenn wir eine Universallösung vorschreiben - und irgendwann werden wir mal dahin kommen - dann werden die beiden Systeme, die heute in Spanien angeboten werden, verschwinden müssen.
+Das ist eine schwierige technische Frage.
+Ich weiß nicht, ob Sie sich darüber im klaren sind.
+Es gibt zwei Möglichkeiten: Entweder Sie haben nur einen einheitlichen Decoder, bei dem alle, auch die mit conditional access , also pay-TV und so weiter, durch diesen Decoder hindurch anbieten können.
+Das ist, wenn Sie so wollen, die Ideallösung.
+Sie setzt voraus, daß Sie einen technischen Standard haben.
+Wir werden eines Tages dahin kommen, weil die Industrie an dieser Möglichkeit arbeitet.
+Wir wollen das aber nicht von uns aus vorschreiben, denn wenn wir das tun, dann würden alle, die heute einen Decoder in Auftrag geben oder schon anbieten, enorme wirtschaftliche Nachteile erleiden.
+Sie müßten nämlich diese Decoder vom Markt nehmen.
+Deswegen haben wir gesagt, wir schreiben nur ein Minimum vor.
+Das Minimum heißt: Jeder, der einen Decoder verwendet, muß einen verwenden, der auch für andere zugänglich ist.
+Dabei ist aber kein besonderes technisches Verfahren vorgeschrieben, sondern lediglich die Tatsache, daß man Zugang haben muß.
+Das macht nun die spanische Gesetzgebung nicht mit, sondern sie schreibt einen Decoder vor, übrigens auch keinen einheitlichen Decoder, sondern einen Decoder mit einem common interface .
+Das ist eine andere technische Lösung.
+Das ist nicht die Ideallösung, daß nämlich nur ein Decoder existiert, sondern das ist ein Decoder, der durch eine technische Maßnahme offen ist für andere.
+Es ist aber nicht der einheitliche Decoder.
+Andere Decoder, die auch offen sind, werden nicht erlaubt.
+Genau das ist nach der Richtlinie nicht möglich.
+Verstehen Sie?
+Wenn Sie die Richtlinie noch einmal durchlesen - Herr Caudron hat das ja bestätigt, und was Herr Caudron sagt, stimmt -, dann werden Sie feststellen, daß das, was ich Ihnen jetzt hier gesagt habe, geltendes Recht ist.
+Das ist das Problem mit dem spanischen Gesetz.

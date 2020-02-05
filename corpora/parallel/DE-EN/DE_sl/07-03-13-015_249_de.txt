@@ -1,0 +1,5 @@
+Ich möchte auch zum selben Thema etwas sagen.
+Ich habe gerade in letzter Zeit sehr viele Schreiben und E-Mails bekommen, die insbesondere darauf hinweisen, dass die Implementierung derzeit überhaupt noch nicht gut funktioniert.
+Ich möchte mich dem Kollegen Rack anschließen in dem Sinne, dass es scheinbar auch notwendig ist, gewisse Dinge nicht nur besser umzusetzen, sondern zu ändern.
+Gerade hinsichtlich des Problems, dass ständig Flugzeuge, die nicht ausgebucht sind, einfach aufgrund höherer Gewalt ausfallen, bedarf es meines Erachtens einer strengeren Gesetzgebung, und nicht nur einer Implementierung.
+Es würde mich interessieren, was Sie diesbezüglich zu unternehmen gedenken.

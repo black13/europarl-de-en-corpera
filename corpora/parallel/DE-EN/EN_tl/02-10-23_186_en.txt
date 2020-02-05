@@ -1,0 +1,23 @@
+Madam President, it is good that this debate is taking place here today.
+After a year's work, the Echelon Committee tabled recommendations and requests.
+It is only good parliamentary control if we enquire, one year on, what has become of them.
+Allow me to make a preliminary remark.
+A few days after the debate that we held last year, there was the horrific attack of 11 September on the United States of America.
+There were two reactions to this.
+Some said that this proved that the interception systems were useless and that they ought to be abolished, while others wanted to put the secret services and their activities out to public tender.
+Both reactions are wrong!
+The majority of this House was convinced that strategic telecommunications controls could be a useful instrument for intelligence services, provided that legal safeguards and a proper system of checks and balances were in place.
+What happened on 11 September does not in any way change our demands for clear legal bases, for parliamentary control and for the provisions of the European Convention on Human Rights to be complied with.
+Of the range of demands that we made, I should like to highlight the essential aspects for whose implementation the Commission is responsible, and will not therefore mention anything in the field of external policy or at international level.
+As Commissioner Liikanen stated, the Commission has done a considerable amount of work on IT security.
+If you take a closer look you discover that these are initiatives that would have been necessary in any case because of e-commerce and of the need to support the IT industry.
+Parliament had made precise demands, which - at least this is my impression, Commissioner - have not been implemented in full.
+Firstly, we wanted open source to be promoted as a basis for the encryption software so that we knew for sure what the software did.
+We wanted the Commission to help to distribute the open-source software so that we could be sure that no backdoors were being incorporated into the networks.
+The Commission is doing too little here.
+Incidentally, the Commission itself, to my disappointment, is not using open-source software either, and neither is Parliament.
+As far as protecting confidential information in the Commission is concerned, which is something that we have of course also looked at, Mr Liikanen said that considerable changes had been made here.
+This is to be welcomed.
+When we took a look at this in the Commission last time, they were still using encryption faxes, with some of the ciphers being generated in Great Britain!
+It would be good, Commissioner, if the Commission could offer to convince a few Members of the old committee of its current security standards by inviting them to the Commission to see for themselves.
+I understand that you cannot reveal any details in a public debate, but it would be helpful to us to know what has actually happened in this respect in a little more detail.

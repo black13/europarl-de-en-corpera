@@ -1,0 +1,30 @@
+Mr President, Commissioner, ladies and gentlemen, I also wish to begin by sincerely thanking the rapporteur for his swift and very cooperative work.
+In the field of electronic commerce, consumers and businesses in Europe must be able to rely on every message being attributable to its actual sender, with no possibility of legal doubt.
+So as not to obstruct the development of our economy, we must therefore give the people of Europe the opportunity to supplement the traditional written signature by electronic means.
+In my own country of Germany, a law was passed a year ago which provides for the use of digital signatures at quite a high level of security.
+The first electronic identity cards, in other words smart cards with which electronic signatures can be produced, have been on the market since last week.
+It is therefore high time that this material was incorporated into a uniform European framework, otherwise there is a danger that we shall eventually have 15 different laws on digital signatures with a variety of different standards.
+This would ultimately result in serious impairment of the free movement of goods and services in our internal market.
+That is why the draft directive that the Commission presented to Parliament last year was such a welcome development.
+The directive guarantees providers of certification services free access to the market; provided that electronic signatures fulfil certain conditions, it puts them on a par with conventional signatures and recognises their validity in cross-border transactions and as evidence in court proceedings.
+Provisions governing the liability of certification service providers are designed to ensure consumer and business confidence.
+So although I believe that some of the amendments adopted by the Committee on Legal Affairs and Citizens' Rights do represent useful improvements, the Commission proposal itself was a very progressive and balanced one.
+For example, Article 8(3) of the proposal provides for digital signature certificates to be issued under a pseudonym at the signatory's request.
+Not only do we have no reservations about this provision, we expressly welcome it.
+In its efforts to ensure the protection of personal data, however, the Commission goes rather too far.
+In its proposal, it seeks to ensure that the identity of any person using a pseudonym cannot be revealed without that person's consent, unless such information is required for the investigation of criminal offences.
+It is therefore gratifying to note that an amendment - the rapporteur's Amendment No 27, which was adopted by a clear majority in committee - also permits the transfer of such data if it is necessary for legal claims relating to transactions in which a pseudonym was used.
+I do not think this amendment diminishes the protection afforded to personal data, particularly since any such transfer is explicitly required to comply with the provisions of data protection legislation.
+On the contrary, this amendment strikes a balance between the rights of the pseudonym user and the interests of the other party to the transaction.
+Moreover, a number of other amendments succeed in formulating provisions more precisely and eliminating contradictions.
+One example is the term 'digital signature', which standard usage limits to a particular and currently prevalent form of electronic signature.
+This term has been replaced in the amendments by 'electronic signature'.
+In this way, the directive is given broader scope to cover future technological developments.
+Regrettably, there are also some rather inappropriately worded amendments, such as nos 8, 15 and 23, which my group feels have overshot their target, namely to formulate the text more precisely.
+Instead of the intended clarification, they have the opposite effect and should therefore be rejected.
+The same applies to the amendment on the electronic submission of petitions, which, in the view of my group, has little to do with digital signatures and is consequently out of place here.
+Other amendments, namely Nos 6 and 7, seek to have data protection clauses inserted in all multilateral conventions to which the Union is a party.
+They insist that other parties to such agreements should respect the right of not only the EU but also its Member States to maintain existing rules on data protection.
+They are thereby placing unnecessary restrictions on the flexibility of the Union at the bargaining table.
+We therefore cannot support such amendments to the recitals either.
+I assume that, when the votes are taken, the House will bear these considerations in mind and will adopt a balanced version of the directive.

@@ -1,0 +1,8 @@
+Mr President, each day every European citizen becomes more aware that electronic commerce is the commerce of the future.
+Solving the associated problems in the field of legal security will be a determining factor in the acceptance of electronic communication by the citizens, but it will also be a precondition for the equality of legal status of digital and conventional signatures.
+The rapporteur has given us a comprehensive account of these problems and pointed us in the right direction.
+Solutions appear to be possible for both the problems of authentication and integrity.
+In my view it is, in fact, the question of confidentiality which will prove difficult to resolve.
+However, the speed of technical development in the field of electronics suggests that satisfactory methods will soon be available.
+On one hand these will have to meet the requirements of day-to-day use and of data protection, on the other they must not hinder the fight against crime.
+It is my view, however, that we should dispense with legal access rules.

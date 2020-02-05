@@ -1,0 +1,31 @@
+Herr Präsident!
+Herr Kommissar, meine Damen und Herren!
+Auch ich möchte zunächst dem Berichterstatter herzlich danken für seine schnelle und sehr kooperative Arbeit.
+Verbraucher und Unternehmen in Europa müssen sich im elektronischen Geschäftsverkehr darauf verlassen können, daß Nachrichten rechtlich zweifelsfrei ihrem jeweiligen Absender zugeordnet werden können.
+Um die Entwicklung unserer Wirtschaft nicht zu behindern, müssen wir also den Bürgern Europas die Möglichkeit an die Hand geben, die traditionelle handschriftliche Unterschrift durch elektronische Mittel zu ergänzen.
+In meiner deutschen Heimat ist schon letztes Jahr ein Gesetz verabschiedet worden, das digitale Signaturen auf relativ hohem Sicherheitsniveau regelt.
+Die ersten diesem Gesetz entsprechenden elektronischen Ausweise, also Chipkarten, mit denen sich elektronische Unterschriften erzeugen lassen, sind seit letzter Woche auf dem Markt.
+Es ist also höchste Zeit, diese Materie auf europäischer Ebene in einen einheitlichen Rahmen zu fassen, sonst riskieren wir auf die Dauer eine Zersplitterung des Rechts in fünfzehn Signaturgesetze mit unterschiedlichen Standards.
+Folge wäre letztendlich eine erhebliche Behinderung des freien Waren- und Dienstleistungsverkehrs in unserem Binnenmarkt.
+Deshalb ist es sehr zu begrüßen, daß die Kommission dem Parlament noch im letzten Jahr einen entsprechenden Richtlinienvorschlag vorgelegt hat.
+Anbietern von Zertifizierungsdiensten gewährt die Richtlinie freien Zugang zum Markt, elektronische Signaturen, die bestimmte Voraussetzungen erfüllen, werden der traditionellen Unterschrift gleichgestellt und grenzüberschreitend anerkannt, auch als Beweismittel im Gerichtsverfahren.
+Regeln über die Haftung der Anbieter von Zertifizierungsdiensten sollen das Vertrauen von Verbrauchern und Unternehmen sicherstellen.
+Der Vorschlag der Kommission war also bereits sehr fortschrittlich und ausgewogen, konnte aber, wie ich meine, durch einige im Rechtsausschuß angenommene Änderungsanträge sinnvoll verbessert werden.
+So sieht der Kommissionsvorschlag in Artikel 8 Absatz 4 vor, daß Zertifikate für digitale Signaturen auf Verlangen auch unter Pseudonym ausgegeben werden können.
+Dagegen bestehen nicht nur keine Bedenken, sondern dies wird ausdrücklich begrüßt.
+In ihrem Bemühen um Datenschutz geht die Kommission aber etwas zu weit.
+Sie will in ihrem Vorschlag die Offenlegung der Identität von Personen, die Pseudonyme verwenden, gegen ihren Willen nur im Fall eines Strafverfahrens ermöglichen.
+Es ist daher sehr zu begrüßen, daß ein Änderungsantrag - jetzt Nr. 27 des Berichterstatters, der im Ausschuß mit deutlicher Mehrheit angenommen wurde -, die Weitergabe dieser Daten auch in einem weiteren Fall ermöglicht, nämlich dann, wenn das für Rechtsansprüche im Zusammenhang mit Transaktionen notwendig ist, bei denen ein solches Pseudonym verwendet wurde.
+Ich denke nicht, daß mit dieser Änderung der Datenschutz geschwächt wurde, zumal sie ausdrücklich unter dem Vorbehalt des Datenschutzrechts steht.
+Vielmehr stellt dieser Antrag ein Gleichgewicht her zwischen den Rechten des Verwenders eines Pseudonyms und den Interessen seiner Geschäftspartner.
+Darüber hinaus ist es in einer Vielzahl weiterer Änderungsanträge gelungen, den Text zu präzisieren bzw. Widersprüche zu beseitigen.
+Als Beispiel der Begriff digitale Signatur, der sich im Sprachgebrauch auf eine bestimmte, derzeit verbreitete Form von elektronischer Signatur beschränkt: Er wurde in den Änderungsanträgen durch den Begriff "elektronische Signatur" ersetzt.
+So läßt sich die Reichweite der Richtlinie für künftige technische Entwicklungen offenhalten.
+Leider schießen aber auch einige etwas unglücklich formulierte Änderungsanträge, zum Beispiel Änderungsantrag 8, 15 und 23, nach Auffassung meiner Fraktion über das Ziel hinaus, nämlich bei der Verfolgung des Ziels, den Text präziser zu verfassen.
+Statt der beabsichtigten Klarstellung haben sie den gegenteiligen Effekt und sind daher abzulehnen.
+Dasselbe gilt für den Antrag zur elektronischen Einreichung von Petitionen, der nach der Auffassung meiner Fraktion mit der digitalen Signatur nur wenig zu tun hat und daher an dieser Stelle fehl am Platze ist.
+Andere Änderungsanträge, nämlich 6 und 7, wollen, daß in allen multilateralen Vereinbarungen der Union mit Drittländern zu diesem Bereich auch Fragen des Datenschutzes geregelt werden.
+Sie fordern die Beibehaltung des bisherigen Datenschutzrechts nicht nur der Union, sondern auch jedes einzelnen Mitgliedstaats in solchen Abkommen.
+Damit schränken sie den Verhandlungsspielraum der Union unnötig ein.
+Solche Änderungen können deshalb auch in den Erwägungen nicht befürwortet werden.
+Ich gehe davon aus, daß das Plenum bei der Abstimmung diesen Erwägungen Rechnung trägt und die Richtlinie in einer ausgewogenen Form verabschiedet werden wird.

@@ -1,0 +1,4 @@
+Herr Präsident, ich möchte Ihnen eine technische Beobachtung mitteilen.
+Hier bei uns funktioniert das System, indem man zuerst auf Ja tippt, und dann, wenn man auf Nein geht, zeigt es immer noch blau an.
+Wenn man Nein anzeigen will, zeigt es gar nichts an.
+Also nur über das Ja kommt man zum Nein, und das ist kein technisch würdiger Vorgang.

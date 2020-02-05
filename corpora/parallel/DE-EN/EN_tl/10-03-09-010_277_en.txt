@@ -1,0 +1,5 @@
+Mr Barroso, I would like to ask a question relating to the problem of data storage, as the German Federal Constitutional Court declared null and void the general storage of all telecommunications data at the beginning of this month.
+The extent to which the unrestricted and uncontrolled storage of data or such access to data is compatible with the fundamental rights remains controversial.
+Here in Parliament, we said a clear 'no' to the SWIFT Agreement.
+In my opinion, the EU's Data Retention Directive probably also needs to be assessed in the light of the list of fundamental rights contained in the Treaty of Lisbon.
+Do you, or does the Commission, intend to carry out any sort of review in this regard to see how the list of fundamental rights relates to data storage?

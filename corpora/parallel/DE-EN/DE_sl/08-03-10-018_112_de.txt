@@ -1,0 +1,13 @@
+Herr Präsident!
+Ich muss zugeben, ich mag diese Catch-the-eye-Regelung, vor allen Dingen, wenn die Uhr noch nicht läuft.
+Wir haben im Bereich Datenschutz sicherlich eine Menge zu diskutieren.
+Von einigen Kollegen aus der Fraktion der Grünen wurde das Thema Sammlung von Daten privater Unternehmen und von Privatpersonen angesprochen.
+Sicherlich werfen solche Fusionen wie zwischen Google und DoubleClick einige Fragen auf.
+Allerdings sollte man auch aufpassen, dass man nicht Sachen miteinander vermischt.
+Wenn viele Frösche quaken, bleibt es immer noch Gequake.
+Das bedeutet also, dass wir nicht vergessen sollten, auch die technischen Vorgänge dahinter zu verstehen.
+Wir sind - und das gilt gerade auch für meine Fraktion - insbesondere beim Internet und natürlich auch in den Fragen des Datenschutzes sehr oft sehr nah am Thema und auch oft sehr emotional.
+Aber um zu verstehen, wie das Internet und Datenerfassung funktionieren, muss ich erst die Technik dahinter verstehen.
+Insofern finde ich den Ansatz von Herrn Weber gar nicht so verkehrt, erst zu prüfen, inwiefern IP-Adressen möglicherweise personenbezogene Daten im Sinne der Datenschutzrichtlinie 2002/58 sind, die den Datenschutz in der elektronischen Kommunikation regelt.
+Denn in einigen Fällen kann man dadurch - in Kombination mit Benutzerdaten - sehr wohl persönliche Informationen erlangen.
+Bei der technologischen Entwicklung, die wir heutzutage haben, wenn z. B. Kühlschränke automatisch Rezepte aus dem Internet abrufen, ist andererseits die Frage, ob es sich bei der IP-Adresse meines Kühlschranks wirklich um personenbezogene Daten handelt, obsolet.

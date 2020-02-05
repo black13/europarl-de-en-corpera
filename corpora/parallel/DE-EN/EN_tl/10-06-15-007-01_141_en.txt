@@ -1,0 +1,4 @@
+Mr President, I should like to make a technical observation.
+On our machines, you have to press 'Yes' first, then when you go to 'No', it is still blue.
+If you want to display 'No', nothing is displayed.
+In other words, you can only get to 'No' via 'Yes', which is not a fitting technical solution.

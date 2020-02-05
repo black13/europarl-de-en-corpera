@@ -1,0 +1,18 @@
+Mr President, Commissioner, ladies and gentlemen, I too should like to thank the rapporteur very warmly for his report.
+We are, I think, agreed that electronic means of communication are developing at such lightning speed that we too must act very quickly in setting up the legal framework for this new type of communication.
+We should also welcome the Commission's decision to set out a European policy for a common framework for digital signatures and encryption, not least because electronic commerce, like all the other possible uses of new technologies, is no longer restricted by national frontiers.
+We in the European Union have the possibility of developing just such a joint legal framework.
+Given the absolute urgency of the issue, we should welcome the fact that the concrete draft directive is already available as we discuss the preparatory document here today.
+However, electronic commerce reaches far beyond the Union, in fact it is already boundless.
+This is why we are calling upon the Commission and the Member States to press ahead energetically for agreements at international level.
+As has already been mentioned, in dealing with the issue of security and trust in electronic communication there are two core areas for discussion: security and cryptography.
+As far as the security of transmitted information is concerned, firstly we must be able to ascertain where a message is coming from, and secondly we must be able to ensure that a message reaches its recipient without having been modified en route.
+These questions are of vital importance both for the consumer and in terms of guaranteeing public trust in this method of communication.
+This development means an enormous adjustment and an enormous challenge for both the general public and the economy.
+People will only use these facilities if the confidentiality of the data they are exchanging is guaranteed and above all, where payment is concerned, if adequate legal security for contracts concluded and money changing hands electronically are guaranteed.
+On this point, I should like to make a call for the bodies of the European Union, including the Commission, to take on a pioneering role in the use of electronic signatures, both for internal communication and when exchanging data with third parties.
+I believe this would represent an important step towards strengthening people's trust in digital signatures in particular and in electronic communication in general.
+Following on from the last consideration, I should also like to say that we need clear legislation in all Member States giving electronic signatures the same status as conventional signatures.
+In any support for a joint policy and the development of electronic commerce in general, however, there will be certain problems which will have to be examined in detail and for which there are various possible solutions.
+This is particularly true in the case of liability.
+However, I believe that we will be able to solve this problem soon, thereby creating a great potential for new jobs in Europe and for support of the economy.

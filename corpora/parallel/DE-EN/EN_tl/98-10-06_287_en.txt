@@ -1,0 +1,21 @@
+Mr President, Commissioner, ladies and gentlemen, Mr Baldarelli's fine report continues the discussion on transport telematics that we started at the beginning of our legislative term.
+This Commission communication differs from the last one in two ways.
+Firstly, unlike the earlier one it is not concerned with specific telematics applications but with Community strategies and with the framework conditions for the Europe-wide deployment of telematics.
+That reflects the very rapid developments in this field, or at least in the area of road transport telematics.
+This brings me to the second difference from the earlier communication.
+We are concerned here only with telematics applications for one mode of transport, road transport, which is a good thing in that it leads to proposals for practical action.
+But it is also a bad thing, because it is not a multimodal approach.
+When we speak of an integrated transport system in transport policy and say that is the only way to achieve sustainable mobility in the long term, that means we consider two types of integration necessary: quantitative integration of the individual modes of transport beyond national borders, and qualitative integration, namely linking up the transport modes to form a multimodal transport system.
+We have a particular need for telematics with regard to the second aspect.
+The integration of road transport alone could even prove counterproductive for the overall project.
+So we expect the Commission to set out a strategy and propose practical actions for multimodal transport telematics.
+Turning now to the strategies for road transport telematics, even if the communication and the report are very belated, since most of the strategies have already been implemented, let me say this.
+One: we welcome the strategy of introducing RDS-TMC-based transport information services; we do, however, expect that this will be done across the board, Europe-wide, and not just in Germany.
+We also expect a parallel strategy for introducing the technically superior DAB system.
+Two: the exchange of traffic data and the creation of an information management service should be geared to intermodal transport from the outset.
+Three: the effect of the Memorandum of Understanding on technical norms and operating reports needs checking.
+Four: greater efforts should be directed at making the systems of electronic fee collection interoperable, since there is some need for political action here - at least in my view.
+If we can sharply reduce what are called the external costs of road transport by means of telematics we must also be able to ascertain and apportion the residual costs on a uniform basis.
+Five: we need comprehensive socio-economic studies on human/machine interfaces.
+Six: the attempts to define an open, European system architecture are lagging behind recent developments.
+That is why we look forward to the Commission's next communication on telematics.

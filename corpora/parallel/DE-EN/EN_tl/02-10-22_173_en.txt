@@ -1,0 +1,5 @@
+Mr President, when the Commission placed an order with the software company SAP at no time did it think in terms of an order of magnitude of 4 000 users.
+In the public call for tender of 1994, a figure of 1 053 potential users was given as an indication.
+On the second point: following the public call for tender, which was published in the Official Journal, the Commission - and specifically the SINCOM Council - decided to conclude a framework contract with SAP to buy SAP R/3 software licences worth EUR 1.5 million; that was the value of the order including the associated service agreements.
+This amount covers the use of the financial accounting module by 600 civil servants, the vast majority working in the budget and Financial Control Directorates-General, as well as a few users in the internal and external audit services, for example the Court of Auditors, and in the operational Directorates-General.
+On your third question: the actual number of users of the SAP financial accounting software currently stands at 300.

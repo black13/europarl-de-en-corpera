@@ -1,0 +1,3 @@
+Ich mache es ganz kurz: Wir werden in Zukunft erleben, daß alle diese Unterscheidungen, mit denen wir heute arbeiten, vermutlich eingeebnet werden, d.h. es werden ganze Systeme entstehen, bei denen man gar nicht mehr unterscheiden kann, was ist Hardware, was ist die Infrastruktur, was ist der Inhalt, die Software.
+Das heißt, wir gehen davon aus, daß wir mit diesen Unterscheidungen, mit denen wir jetzt arbeiten, in Zukunft nicht mehr arbeiten können, sondern daß wir ganz neue Methoden entwickeln müssen.
+Wir arbeiten aber daran und werden Ihnen unter dem Stichwort Konvergenz dazu demnächst mehr berichten.

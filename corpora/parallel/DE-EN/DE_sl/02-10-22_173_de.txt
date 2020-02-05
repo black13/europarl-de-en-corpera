@@ -1,0 +1,6 @@
+Herr Präsident!
+Die Kommission hat bei der Vergabe eines Auftrags an das Software-Unternehmen SAP zu keiner Zeit an eine Größenordnung von 4 000 Nutzern gedacht.
+In der öffentlichen Ausschreibung von 1994 wurde zur Orientierung eine Zahl von 1 053 möglichen Nutzern angegeben.
+Zum zweiten Punkt: Im Anschluss an das im Amtsblatt veröffentliche öffentliche Ausschreibungsverfahren beschloss die Kommission - und zwar der SINCOM-Rat - mit SAP einen Rahmenvertrag über den Kauf von Lizenzen über die Software SAP R/3 im Wert von 1,5 Mio. Euro - das war der Auftragswert einschließlich der damit verbundenen Serviceleistungen - abzuschließen.
+Dieser Betrag deckt die Nutzung der Finanz- und Rechnungsführungsmodule durch 600 überwiegend in der Generaldirektion Haushalt und in der Finanzkontrolle tätige Bedienstete sowie einige Nutzer in den internen und externen Rechnungsführungsdiensten, zum Beispiel Rechnungshof, und in den operationellen Generaldirektionen ab.
+Zu Ihrer dritten Frage: Die tatsächliche Zahl der Nutzer der SAP-Finanz- und Rechnungsführungs-Software beläuft sich derzeit auf 300.

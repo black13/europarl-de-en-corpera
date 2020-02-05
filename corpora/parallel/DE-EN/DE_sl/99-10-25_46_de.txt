@@ -1,0 +1,32 @@
+- Herr Präsident, verehrte Kolleginnen und Kollegen!
+Galt bisher das Internet als ein Informationsmittel, so wird es inzwischen auch im Geschäftsverkehr zum Einkaufen und Verkaufen genutzt, und zwar nicht nur von Unternehmen, sondern auch von ganz normalen Privatleuten.
+Diese Entwicklung auf einem schnell wachsenden Markt mit rasanten Zuwachszahlen ignoriert naturgemäß nationale Grenzen und bedarf gemeinschaftlicher Rahmenbedingungen.
+In dieser Erkenntnis hat die Kommission einen Vorschlag für eine Richtlinie über gemeinsame Rahmenbedingungen für elektronische Signaturen vorgelegt, also für Unterschriften, die sich nicht als Handzeichen darstellen, sondern elektronisch erzeugt werden.
+Das Parlament hat in der ersten Lesung im Januar 1999 32 Änderungsanträgen zugestimmt.
+Der Rat hat sodann am 28.6.1999 unter Berücksichtigung eines großen Teils der Änderungsanträge des Parlaments seinem Gemeinsamen Standpunkt vorgelegt.
+Der Rechtsausschuß hat über den Standpunkt beraten und ihm einstimmig zugestimmt, bei sieben Änderungsanträgen, wovon wir einen allerdings nicht annehmen sollten.
+Auf folgende Punkte möchte ich eingehen: Die Richtlinie ist in erster Linie für die Teilnehmer offener Netze wie des Internet gedacht und läßt das Recht auf freiwillige Vereinbarungen im Rahmen sogenannter geschlossener Systeme unberührt.
+Das Internet macht nicht an europäischen Grenzen halt.
+Deshalb zielt die Richtlinie auf eine Öffnung gegenüber Drittländern und sieht grenzüberschreitende Vereinbarungen vor.
+Zweitens: Die Zukunft des elektronischen Rechts- und Geschäftsverkehrs hängt wesentlich davon ab, ob es gelingt, das Vertrauen, insbesondere der Verbraucher, in die Sicherheit zu verbessern, und zwar sowohl in die technische Sicherheit, zum Beispiel Verfälschungen, wie auch in die rechtliche Wirksamkeit solcher Vorgänge.
+Entscheidender Ansatzpunkt hierfür sind die elektronischen Signaturen.
+Durch eine solche Unterschrift in elektronischer Form kann gewährleistet werden, daß einmal die Identität dessen, der eine Erklärung abgegeben hat, der sie signiert hat, des Unterzeichners also, festgestellt wird.
+Außerdem kann aber auch die Integrität der übermittelten Daten festgestellt werden.
+Bei den technischen Standards, mit denen sich die Richtlinie befaßt, bemüht sie sich um technologische Offenheit.
+Ein erhöhter Sicherheitsstandard soll durch fortgeschrittene Signaturen und qualifizierte Zertifikate erreicht werden.
+Die Richtlinie stellt sicher, daß die entsprechenden kryptographischen Produkte gemeinschaftsweit angeboten werden können, ohne daß dies von einer Genehmigung abhängig gemacht werden darf.
+Sie läßt allerdings freiwillige Akkreditierungssysteme zu, um das Niveau der Qualitätsstandards zu fördern.
+Für die Anbieter von qualifizierten Zertifikaten ist eine Mindesthaftung vorgesehen.
+Es müssen Pseudonyme verwendet werden können; auch wird der Datenschutz berücksichtigt.
+Eine entscheidende Frage für das Vertrauen der Teilnehmer in die Zuverlässigkeit elektronisch abgeschlossener Rechtsgeschäfte im Internet ist die Frage nach der rechtlichen Wirksamkeit solcher Vorgänge.
+Fortgeschrittene Signaturen werden, weil besonders sicher, künftig grundsätzlich in ihrer rechtlichen Wirkung einer handschriftlichen Unterschrift gleichgestellt.
+Aber auch einfachen Signaturen darf die rechtliche Wirksamkeit und die Verwendung als Beweismittel nicht grundsätzlich abgesprochen werden.
+Mit dieser Richtlinie, bei der es sich um die weltweit erste Rahmenregelung dieser Art handelt, macht die Europäische Union einen ersten und entscheidenden Schritt hin zur Regelung und zugleich Förderung des elektronischen Geschäftsverkehrs innerhalb der Gemeinschaft.
+Die Richtlinie ist geeignet, das Vertrauen der Menschen in die Zuverlässigkeit offener Netze, in die angebotenen Dienstleistungen und Produkte und in die rechtliche Wirksamkeit der im Internet abgeschlossenen Geschäfte zu stärken.
+Sie leistet gleichzeitig einen wichtigen Beitrag zum freien Waren- und Dienstleistungsverkehr im Binnenmarkt, und zwar sowohl für die Verbraucher - wenn ich etwas reißerisch anmerken darf: gewissermaßen zum Shopping im Internet - als auch für die Anbieter der erforderlichen kryptographischen Dienstleistungen und Produkte.
+Ich möchte ausdrücklich ein Wort des Dankes an die Kommission und den Rat sagen, die beide in außerordentlich kooperativer Weise mit dem Parlament zusammengearbeitet haben.
+Mein Dank gilt aber auch den Kolleginnen und Kollegen im Parlament aus allen Fraktionen, nicht zuletzt auch aus der vorherigen Legislaturperiode, in der wichtige Vorarbeiten geleistet wurden.
+Zumeist besteht unsere Aufgabe darin, gewachsene unterschiedliche nationale Regelungen mühsam abzubauen und aufeinander abzustimmen.
+Im vorliegenden Fall haben wir es mit einer sich neu entwickelnden technologischen und sozialen Wirklichkeit zu tun, die wir von Anfang an durch eine originäre europäische Gesetzgebung rechtlich gestalten können und mit der wir uns damit gleichzeitig als europäische Rechtsgemeinschaft in besonderer Weise bewähren können.
+Unterschiedliche nationale Regelungen sollten über den gegebenen Spielraum hinaus erst gar nicht entstehen oder sich verfestigen.
+Auch aus diesem Grunde halte ich es für wichtig, daß diese Richtlinie möglichst schnell in Kraft tritt, und bitte Sie um Ihre Zustimmung!

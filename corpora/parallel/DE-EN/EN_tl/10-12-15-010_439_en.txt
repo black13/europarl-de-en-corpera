@@ -1,0 +1,10 @@
+in writing. - Internet advertising adapts itself to users' behaviour.
+Given a user profile, advertisers can target their advertising and avoid people outside their target group.
+However, surveys show that users are largely opposed to personalised online advertising, which is often seen as intrusive.
+Many people even feel that they are being watched.
+A total of 62% of those surveyed are concerned that data protection is being disregarded in the case of personalised advertising and data protection specialists also have misgivings, because personal data is being stored, compared and linked with other data.
+In theory, every user can disable this option.
+However, the link is not easy to find and, therefore, this report proposes to make it easier for consumers to refuse all further e-mail advertising by means of a direct, working hyperlink.
+In addition, the report enables consumers to be provided with clear, accessible and comprehensive information about how their data is collected, processed and used.
+Their data must be kept completely separate from that collected in the course of advertising activities.
+The content of private e-mails must under no circumstances be misused for advertising purposes and default settings for computer systems must be used to protect privacy on the Internet (privacy by design).
